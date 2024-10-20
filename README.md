@@ -5,7 +5,7 @@
 <div align="center">
     <img src="https://i.imgur.com/f4G79QJ.png" height="500px">
 </div>
-## Sobre mi
-- Desarrollador Android 
-- Experincia en Matenimiento de aplicaciones Bancarias 
-- Desarrollo de aplicaciones de premios de lealtad
+### Sobre mi 🧑:
+- 🌱 Desarrollador Android 
+- 🌱 Experincia en Matenimiento de aplicaciones Bancarias 
+- 🌱 Desarrollo de aplicaciones de premios de lealtad
