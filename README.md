@@ -6,10 +6,17 @@
 </div>
 <br>
 Sobre mi 🧑:
+<br>
 <div>
     <ul>
         <li>🌱 Desarrollador Android</li>
         <li>🌱 Experincia en Matenimiento de aplicaciones Bancarias</li>
         <li>🌱 Desarrollo de aplicaciones de premios de lealtad</li>
     </ul>
+</div>
+<div>
+    <h2>Tecnologias que conozco</h2>
+    <a referencia larga="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=kotlin,git,flutter,androidstudio,bitbucket,dart,gitlab,swift,css,postgres,figma,firebase,github,html,java,js,linux,materialui,mysql,postman&perline=14" />
+    </a>
 </div>
